@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Freezed in Flutter](https://dev.to/kodega2016/freezed-in-flutter-b1n)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
