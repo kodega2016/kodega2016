@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khadga Bahadur Shrestha</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [M-Doctor](https://github.com/kodega2016/mdoctor)
-
-- 🌱 I’m currently learning **Node js,Mongo DB**
-
-- 👯 I’m looking to collaborate on [M-Doctor](https://github.com/kodega2016/mdoctor)
-
 - 👨‍💻 All of my projects are available at [https://github.com/kodega2016](https://github.com/kodega2016)
 
 - 📝 I regularly write articles on [https://dev.to/kodega2016](https://dev.to/kodega2016)
