@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khadga Bahadur Shrestha</h1>
+<h1 align="center">Hi 👋, I'm Khadga Bahadur Shrestha 🧑‍💻</h1>
 <h3 align="center">I’m Khadga Bahadur Shrestha, a software developer specializing in mobile application development,mainly focused on clean code test driven development and scalable and reactive architecture on mobile app development.</h3>
 
 - 🌱 I’m currently learning **Kotlin,Android,Design Pattern**
